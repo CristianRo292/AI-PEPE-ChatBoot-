@@ -1,3 +1,5 @@
+<img width="851" height="462" alt="Captura de pantalla 2026-06-18 104324" src="https://github.com/user-attachments/assets/03c8c562-525f-47b3-a43e-2889c69dfcc1" />
+
 # APRENDIZAJE DE INGLÉS MEDIANTE PROGRESIÓN DE EXPRESIONES PUNTUALES Y ESPONTÁNEAS (AI-PEPE)
 
 Demo en vídeo: https://youtu.be/ZQBsguLvDLM?si=qEJkvoDEAmEhubtg
